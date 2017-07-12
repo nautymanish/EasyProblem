@@ -1,0 +1,7 @@
+D:\Manish\extra\WebApplication2\CalcualteTax\bin\Debug\CalcualteTax.pdb
+D:\Manish\extra\WebApplication2\CalcualteTax\obj\Debug\CalcualteTax.pdb
+D:\Manish\extra\WebApplication2\CalcualteTax\bin\Debug\CalcualteTax.dll.config
+D:\Manish\extra\WebApplication2\CalcualteTax\bin\Debug\CalcualteTax.dll
+D:\Manish\extra\WebApplication2\CalcualteTax\bin\Debug\CalcualteTax.dll.CodeAnalysisLog.xml
+D:\Manish\extra\WebApplication2\CalcualteTax\bin\Debug\CalcualteTax.dll.lastcodeanalysissucceeded
+D:\Manish\extra\WebApplication2\CalcualteTax\obj\Debug\CalcualteTax.dll
