@@ -1,0 +1,8 @@
+D:\Manish\extra\WebApplication2\CalculateTaxTests\obj\Debug\CalculateTaxTests.csprojResolveAssemblyReference.cache
+D:\Manish\extra\WebApplication2\CalculateTaxTests\bin\Debug\CalculateTaxTests.dll
+D:\Manish\extra\WebApplication2\CalculateTaxTests\bin\Debug\CalculateTaxTests.pdb
+D:\Manish\extra\WebApplication2\CalculateTaxTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Manish\extra\WebApplication2\CalculateTaxTests\bin\Debug\CalcualteTax.pdb
+D:\Manish\extra\WebApplication2\CalculateTaxTests\obj\Debug\CalculateTaxTests.dll
+D:\Manish\extra\WebApplication2\CalculateTaxTests\obj\Debug\CalculateTaxTests.pdb
+D:\Manish\extra\WebApplication2\CalculateTaxTests\bin\Debug\CalcualteTax.dll
